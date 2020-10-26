@@ -1,2 +1,2 @@
 print("hello-world")
-// yes..thats all of it
+# yes..thats all of it
